@@ -113,7 +113,7 @@ Key design choices:
 
 ---
 
-## 3. Repository Structure
+## 3. File Structure
 
 ```text
 knox/
